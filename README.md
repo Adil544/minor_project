@@ -1,1 +1,1 @@
-# minor_2_project
+# minor_project
